@@ -1,0 +1,16 @@
+.formPage {
+  height: 100vh;
+}
+.formWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.formContainer {
+  width: 400px;
+  background-color: rgb(31, 62, 61);
+  border-radius: 15px;
+  padding: 20px 40px;
+}

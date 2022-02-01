@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 280px;
+  &_reset {
+    justify-content: center;
+  }
+}
+.formItem {
+  width: 100%;
+  margin: 0;
+}
+.formInput {
+  padding: 8px 11px !important;
+  border-radius: 3px;
+}
+.formButton {
+  width: 100%;
+  height: auto !important;
+  padding: 8px 11px !important;
+}
+.logoImage {
+  display: block;
+  width: 120px;
+  margin: 0px auto;
+}

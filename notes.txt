@@ -1,0 +1,44 @@
+@types/jest
+@types/react
+@types/react-dom
+
+history
+typescript
+yarn add -D @types/react-router-dom
+
+yarn add -D @typescript-eslint/eslint-plugin
+yarn add -D @typescript-eslint/parser
+yarn add -D babel-plugin-import
+yarn add -D eslint-config-airbnb
+
+yarn add -D eslint-config-prettier
+yarn add -D eslint-config-react
+yarn add -D eslint-plugin-import
+yarn add -D eslint-plugin-jsx-a11y
+yarn add -D eslint-plugin-prettier
+
+yarn add -D eslint-plugin-react
+yarn add -D prettier
+
+.eslintrc.json
+
+auth
+Registration - index.tsx
+ResetPassword - index.tsx
+styles.module.scss
+
+import { BrowserRouter as Router, Switch } from "react-router-dom";
+
+yarn add antd
+yarn add @ant-design/icon
+yarn add antd-scss-theme-plugin
+
+"@ant-design/icons": "^4.7.0",
+
+styles.module.scss
+antd-scss-theme-plugin
+
+git init
+git config --local
+git config --global
+git status
